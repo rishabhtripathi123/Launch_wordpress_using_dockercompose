@@ -1,5 +1,5 @@
 # Launch_wordpress_using_dockercompose
-launch wordpress using docker compose on server.
+launch wordpress using docker compose on server , database is integrated in it.
 
 version: '3.3'
 
